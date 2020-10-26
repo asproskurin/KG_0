@@ -1,0 +1,4 @@
+﻿  FigureViewer.cpp
+c:\users\alex3\downloads\1\figureviewer\figureviewer\secretprint.h(17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\alex3\downloads\1\figureviewer\figureviewer\secretprint.h(27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  FigureViewer.vcxproj -> C:\Users\alex3\Downloads\1\FigureViewer\Debug\FigureViewer.exe
